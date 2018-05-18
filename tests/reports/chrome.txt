@@ -1,0 +1,176 @@
+ Running tests in:
+ - HeadlessChrome 66.0.3359 / Windows 10.0.0
+
+ Fixture for Tests
+ √ Test for State Assembly District 1
+ √ Test for State Assembly District 2
+ √ Test for State Assembly District 3
+ √ Test for State Assembly District 4
+ √ Test for State Assembly District 5
+ √ Test for State Assembly District 6
+ √ Test for State Assembly District 7
+ √ Test for State Assembly District 8
+ √ Test for State Assembly District 9
+ √ Test for State Assembly District 10
+ √ Test for State Assembly District 11
+ √ Test for State Assembly District 12
+ √ Test for State Assembly District 13
+ √ Test for State Assembly District 14
+ √ Test for State Assembly District 15
+ √ Test for State Assembly District 16
+ √ Test for State Assembly District 17
+ √ Test for State Assembly District 18
+ √ Test for State Assembly District 19
+ √ Test for State Assembly District 20
+ √ Test for State Assembly District 21
+ √ Test for State Assembly District 22
+ √ Test for State Assembly District 23
+ √ Test for State Assembly District 24
+ √ Test for State Assembly District 25
+ √ Test for State Assembly District 26
+ √ Test for State Assembly District 27
+ √ Test for State Assembly District 28
+ √ Test for State Assembly District 29
+ √ Test for State Assembly District 30
+ √ Test for State Assembly District 31
+ √ Test for State Assembly District 32
+ √ Test for State Assembly District 33
+ √ Test for State Assembly District 34
+ √ Test for State Assembly District 35
+ √ Test for State Assembly District 36
+ √ Test for State Assembly District 37
+ √ Test for State Assembly District 38
+ √ Test for State Assembly District 39
+ √ Test for State Assembly District 40
+ √ Test for State Assembly District 41
+ √ Test for State Assembly District 42
+ √ Test for State Assembly District 43
+ √ Test for State Assembly District 44
+ √ Test for State Assembly District 45
+ √ Test for State Assembly District 46
+ √ Test for State Assembly District 47
+ √ Test for State Assembly District 48
+ √ Test for State Assembly District 49
+ √ Test for State Assembly District 50
+ √ Test for State Assembly District 51
+ √ Test for State Assembly District 52
+ √ Test for State Assembly District 53
+ √ Test for State Assembly District 54
+ √ Test for State Assembly District 55
+ √ Test for State Assembly District 56
+ √ Test for State Assembly District 57
+ √ Test for State Assembly District 58
+ √ Test for State Assembly District 59
+ √ Test for State Assembly District 60
+ √ Test for State Assembly District 61
+ √ Test for State Assembly District 62
+ √ Test for State Assembly District 63
+ √ Test for State Assembly District 64
+ √ Test for State Assembly District 65
+ √ Test for State Assembly District 66
+ √ Test for State Assembly District 67
+ √ Test for State Assembly District 68
+ √ Test for State Assembly District 69
+ √ Test for State Assembly District 70
+ √ Test for State Assembly District 71
+ √ Test for State Assembly District 72
+ √ Test for State Assembly District 73
+ √ Test for State Assembly District 74
+ √ Test for State Assembly District 75
+ √ Test for State Assembly District 76
+ √ Test for State Assembly District 77
+ √ Test for State Assembly District 78
+ √ Test for State Assembly District 79
+ √ Test for State Assembly District 80
+ √ Test for State Senate District 2
+ √ Test for State Senate District 4
+ √ Test for State Senate District 6
+ √ Test for State Senate District 8
+ √ Test for State Senate District 10
+ √ Test for State Senate District 12
+ √ Test for State Senate District 14
+ √ Test for State Senate District 16
+ √ Test for State Senate District 18
+ √ Test for State Senate District 20
+ √ Test for State Senate District 22
+ √ Test for State Senate District 24
+ √ Test for State Senate District 26
+ √ Test for State Senate District 28
+ √ Test for State Senate District 30
+ √ Test for State Senate District 32
+ √ Test for State Senate District 34
+ √ Test for State Senate District 36
+ √ Test for State Senate District 38
+ √ Test for State Senate District 40
+ √ Test for U.S. House of Representatives District 1
+ √ Test for U.S. House of Representatives District 2
+ √ Test for U.S. House of Representatives District 3
+ √ Test for U.S. House of Representatives District 4
+ √ Test for U.S. House of Representatives District 5
+ √ Test for U.S. House of Representatives District 6
+ √ Test for U.S. House of Representatives District 7
+ √ Test for U.S. House of Representatives District 8
+ √ Test for U.S. House of Representatives District 9
+ √ Test for U.S. House of Representatives District 10
+ √ Test for U.S. House of Representatives District 11
+ √ Test for U.S. House of Representatives District 12
+ √ Test for U.S. House of Representatives District 13
+ √ Test for U.S. House of Representatives District 14
+ √ Test for U.S. House of Representatives District 15
+ √ Test for U.S. House of Representatives District 16
+ √ Test for U.S. House of Representatives District 17
+ √ Test for U.S. House of Representatives District 18
+ √ Test for U.S. House of Representatives District 19
+ √ Test for U.S. House of Representatives District 20
+ √ Test for U.S. House of Representatives District 21
+ √ Test for U.S. House of Representatives District 22
+ √ Test for U.S. House of Representatives District 23
+ √ Test for U.S. House of Representatives District 24
+ √ Test for U.S. House of Representatives District 25
+ √ Test for U.S. House of Representatives District 26
+ √ Test for U.S. House of Representatives District 27
+ √ Test for U.S. House of Representatives District 28
+ √ Test for U.S. House of Representatives District 29
+ √ Test for U.S. House of Representatives District 30
+ √ Test for U.S. House of Representatives District 31
+ √ Test for U.S. House of Representatives District 32
+ √ Test for U.S. House of Representatives District 33
+ √ Test for U.S. House of Representatives District 34
+ √ Test for U.S. House of Representatives District 35
+ √ Test for U.S. House of Representatives District 36
+ √ Test for U.S. House of Representatives District 37
+ √ Test for U.S. House of Representatives District 38
+ √ Test for U.S. House of Representatives District 39
+ √ Test for U.S. House of Representatives District 40
+ √ Test for U.S. House of Representatives District 41
+ √ Test for U.S. House of Representatives District 42
+ √ Test for U.S. House of Representatives District 43
+ √ Test for U.S. House of Representatives District 44
+ √ Test for U.S. House of Representatives District 45
+ √ Test for U.S. House of Representatives District 46
+ √ Test for U.S. House of Representatives District 47
+ √ Test for U.S. House of Representatives District 48
+ √ Test for U.S. House of Representatives District 49
+ √ Test for U.S. House of Representatives District 50
+ √ Test for U.S. House of Representatives District 51
+ √ Test for U.S. House of Representatives District 52
+ √ Test for U.S. House of Representatives District 53
+ √ Test for Board of Equalization Member District 1
+ √ Test for Board of Equalization Member District 2
+ √ Test for Board of Equalization Member District 3
+ √ Test for Board of Equalization Member District 4
+
+ Fixture for Tests
+ √ Test for Governor
+ √ Test for Lieutenant Governor
+ √ Test for Secretary of State
+ √ Test for Controller
+ √ Test for Treasurer
+ √ Test for Attorney General
+ √ Test for Insurance Commissioner
+ √ Test for Superintendent of Public Instruction
+ √ Test for U.S. Senate
+ √ Test for Ballot Measures
+
+
+ 167 passed (9m 40s)

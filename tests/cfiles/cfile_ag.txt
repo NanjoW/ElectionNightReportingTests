@@ -1,0 +1,4 @@
+[C|CAS|56|070000000000|631||Jones|David|E.|01|Dave Jones]
+[C|CAS|57|070000000000|688|*|Becerra|Xavier||01|Xavier Becerra]
+[C|CAS|58|070000000000|28||Bailey|Steven|C|02|Steven C Bailey]
+[C|CAS|59|070000000000|334||Early|Eric||02|Eric Early]

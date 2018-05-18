@@ -1,0 +1,5 @@
+[R|CAS|168|190000000068|Natural Resources Bond|GP]
+[R|CAS|169|190000000069|Transportation Revenue: Restrictions and Limits|GP]
+[R|CAS|170|190000000070|Greenhouse Gas Reduction Reserve Fund|GP]
+[R|CAS|171|190000000071|Ballot Measures: Effective Date|GP]
+[R|CAS|172|190000000072|Property Tax: New Construction: Rain-Capture|GP]
